@@ -17,3 +17,6 @@ In this hands-on project, we will train time-series prediction models to predict
 - Apply seaborn and matplotlib to perform images visualization
 - Compile and fit forecasting model to training data
 - Assess trained model performance
+
+## Certificate
+- You can find my certification (here)[https://www.coursera.org/account/accomplishments/records/UTDY38MPK6KB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project]
